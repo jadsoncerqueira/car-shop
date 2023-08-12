@@ -29,5 +29,5 @@ O projeto Car Shop consiste na criação de uma API com CRUD em Typescript, segu
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniolimpio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadsoncerqueira/)
 
